@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>MaxLineLength:Task11.kt$println("The attendees with condition $conditionOfInterest are ${question2Task11(listOfAttendees, conditionOfInterest)}")</ID>
+    <ID>MaximumLineLength:lms_130.Task11.kt:28</ID>
+    <ID>PackageNaming:Task1.kt$package lms_126</ID>
+    <ID>PackageNaming:Task1.kt$package lms_127</ID>
+    <ID>PackageNaming:Task1.kt$package lms_129</ID>
+    <ID>PackageNaming:Task1.kt$package lms_130</ID>
+    <ID>PackageNaming:Task1.kt$package lms_131</ID>
+    <ID>PackageNaming:Task1.kt$package lms_132</ID>
+    <ID>PackageNaming:Task1.kt$package lms_133</ID>
+    <ID>PackageNaming:Task1.kt$package lms_135</ID>
+    <ID>PackageNaming:Task10.kt$package lms_126</ID>
+    <ID>PackageNaming:Task10.kt$package lms_127</ID>
+    <ID>PackageNaming:Task10.kt$package lms_129</ID>
+    <ID>PackageNaming:Task10.kt$package lms_130</ID>
+    <ID>PackageNaming:Task10.kt$package lms_131</ID>
+    <ID>PackageNaming:Task10.kt$package lms_132</ID>
+    <ID>PackageNaming:Task10.kt$package lms_133</ID>
+    <ID>PackageNaming:Task11.kt$package lms_126</ID>
+    <ID>PackageNaming:Task11.kt$package lms_130</ID>
+    <ID>PackageNaming:Task11.kt$package lms_131</ID>
+    <ID>PackageNaming:Task12.kt$package lms_130</ID>
+    <ID>PackageNaming:Task12.kt$package lms_131</ID>
+    <ID>PackageNaming:Task13.kt$package lms_130</ID>
+    <ID>PackageNaming:Task13.kt$package lms_131</ID>
+    <ID>PackageNaming:Task14.kt$package lms_131</ID>
+    <ID>PackageNaming:Task15.kt$package lms_131</ID>
+    <ID>PackageNaming:Task2.kt$package lms_126</ID>
+    <ID>PackageNaming:Task2.kt$package lms_127</ID>
+    <ID>PackageNaming:Task2.kt$package lms_129</ID>
+    <ID>PackageNaming:Task2.kt$package lms_130</ID>
+    <ID>PackageNaming:Task2.kt$package lms_131</ID>
+    <ID>PackageNaming:Task2.kt$package lms_132</ID>
+    <ID>PackageNaming:Task2.kt$package lms_133</ID>
+    <ID>PackageNaming:Task2.kt$package lms_135</ID>
+    <ID>PackageNaming:Task3.kt$package lms_126</ID>
+    <ID>PackageNaming:Task3.kt$package lms_127</ID>
+    <ID>PackageNaming:Task3.kt$package lms_129</ID>
+    <ID>PackageNaming:Task3.kt$package lms_130</ID>
+    <ID>PackageNaming:Task3.kt$package lms_131</ID>
+    <ID>PackageNaming:Task3.kt$package lms_132</ID>
+    <ID>PackageNaming:Task3.kt$package lms_133</ID>
+    <ID>PackageNaming:Task3.kt$package lms_135</ID>
+    <ID>PackageNaming:Task4.kt$package lms_126</ID>
+    <ID>PackageNaming:Task4.kt$package lms_127</ID>
+    <ID>PackageNaming:Task4.kt$package lms_129</ID>
+    <ID>PackageNaming:Task4.kt$package lms_130</ID>
+    <ID>PackageNaming:Task4.kt$package lms_131</ID>
+    <ID>PackageNaming:Task4.kt$package lms_132</ID>
+    <ID>PackageNaming:Task4.kt$package lms_133</ID>
+    <ID>PackageNaming:Task4.kt$package lms_135</ID>
+    <ID>PackageNaming:Task5.kt$package lms_126</ID>
+    <ID>PackageNaming:Task5.kt$package lms_127</ID>
+    <ID>PackageNaming:Task5.kt$package lms_129</ID>
+    <ID>PackageNaming:Task5.kt$package lms_130</ID>
+    <ID>PackageNaming:Task5.kt$package lms_131</ID>
+    <ID>PackageNaming:Task5.kt$package lms_132</ID>
+    <ID>PackageNaming:Task5.kt$package lms_133</ID>
+    <ID>PackageNaming:Task5.kt$package lms_135</ID>
+    <ID>PackageNaming:Task6.kt$package lms_126</ID>
+    <ID>PackageNaming:Task6.kt$package lms_127</ID>
+    <ID>PackageNaming:Task6.kt$package lms_129</ID>
+    <ID>PackageNaming:Task6.kt$package lms_130</ID>
+    <ID>PackageNaming:Task6.kt$package lms_131</ID>
+    <ID>PackageNaming:Task6.kt$package lms_132</ID>
+    <ID>PackageNaming:Task6.kt$package lms_133</ID>
+    <ID>PackageNaming:Task7.kt$package lms_126</ID>
+    <ID>PackageNaming:Task7.kt$package lms_127</ID>
+    <ID>PackageNaming:Task7.kt$package lms_129</ID>
+    <ID>PackageNaming:Task7.kt$package lms_130</ID>
+    <ID>PackageNaming:Task7.kt$package lms_131</ID>
+    <ID>PackageNaming:Task7.kt$package lms_132</ID>
+    <ID>PackageNaming:Task7.kt$package lms_133</ID>
+    <ID>PackageNaming:Task8.kt$package lms_126</ID>
+    <ID>PackageNaming:Task8.kt$package lms_127</ID>
+    <ID>PackageNaming:Task8.kt$package lms_129</ID>
+    <ID>PackageNaming:Task8.kt$package lms_130</ID>
+    <ID>PackageNaming:Task8.kt$package lms_131</ID>
+    <ID>PackageNaming:Task8.kt$package lms_132</ID>
+    <ID>PackageNaming:Task8.kt$package lms_133</ID>
+    <ID>PackageNaming:Task9.kt$package lms_126</ID>
+    <ID>PackageNaming:Task9.kt$package lms_127</ID>
+    <ID>PackageNaming:Task9.kt$package lms_129</ID>
+    <ID>PackageNaming:Task9.kt$package lms_130</ID>
+    <ID>PackageNaming:Task9.kt$package lms_131</ID>
+    <ID>PackageNaming:Task9.kt$package lms_132</ID>
+    <ID>PackageNaming:Task9.kt$package lms_133</ID>
+    <ID>UnusedPrivateMember:Task1.kt$a: Int</ID>
+    <ID>UnusedPrivateMember:Task1.kt$b: Int</ID>
+    <ID>UnusedPrivateMember:Task1.kt$list: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task1.kt$text: String?</ID>
+    <ID>UnusedPrivateMember:Task10.kt$listOfItems: List&lt;String?&gt;</ID>
+    <ID>UnusedPrivateMember:Task10.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task10.kt$myMap: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task10.kt$password: String</ID>
+    <ID>UnusedPrivateMember:Task10.kt$qualityAssessments: String</ID>
+    <ID>UnusedPrivateMember:Task11.kt$condition: String</ID>
+    <ID>UnusedPrivateMember:Task11.kt$keyOfInterest: Int</ID>
+    <ID>UnusedPrivateMember:Task11.kt$listOfAttendees: List&lt;String&gt;</ID>
+    <ID>UnusedPrivateMember:Task11.kt$myMap: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task12.kt$a: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task12.kt$b: List&lt;String&gt;</ID>
+    <ID>UnusedPrivateMember:Task12.kt$sellsOfTheWeek: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task13.kt$listOfCustomers: List&lt;String&gt;</ID>
+    <ID>UnusedPrivateMember:Task13.kt$text: String</ID>
+    <ID>UnusedPrivateMember:Task14.kt$text: String</ID>
+    <ID>UnusedPrivateMember:Task15.kt$text: String</ID>
+    <ID>UnusedPrivateMember:Task2.kt$items: List&lt;Int?&gt;?</ID>
+    <ID>UnusedPrivateMember:Task2.kt$list: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task2.kt$map: Map&lt;Int, Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task2.kt$number: Int</ID>
+    <ID>UnusedPrivateMember:Task3.kt$list: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task3.kt$mapA: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task3.kt$mapB: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task3.kt$number: Int</ID>
+    <ID>UnusedPrivateMember:Task3.kt$radius: Double</ID>
+    <ID>UnusedPrivateMember:Task3.kt$sentence: String?</ID>
+    <ID>UnusedPrivateMember:Task4.kt$base: Double</ID>
+    <ID>UnusedPrivateMember:Task4.kt$commonValue: Int</ID>
+    <ID>UnusedPrivateMember:Task4.kt$factor: Int</ID>
+    <ID>UnusedPrivateMember:Task4.kt$height: Double</ID>
+    <ID>UnusedPrivateMember:Task4.kt$mapA: Map&lt;Int, Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task4.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task4.kt$text: String?</ID>
+    <ID>UnusedPrivateMember:Task5.kt$constant: Int</ID>
+    <ID>UnusedPrivateMember:Task5.kt$mapA: Map&lt;Int, Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task5.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task5.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task5.kt$word: String?</ID>
+    <ID>UnusedPrivateMember:Task6.kt$base1: Double</ID>
+    <ID>UnusedPrivateMember:Task6.kt$base2: Double</ID>
+    <ID>UnusedPrivateMember:Task6.kt$filterParameter: String</ID>
+    <ID>UnusedPrivateMember:Task6.kt$height: Double</ID>
+    <ID>UnusedPrivateMember:Task6.kt$items: List&lt;Int?&gt;</ID>
+    <ID>UnusedPrivateMember:Task6.kt$mapA: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task6.kt$numberToReverse: Int</ID>
+    <ID>UnusedPrivateMember:Task6.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task7.kt$a: Int</ID>
+    <ID>UnusedPrivateMember:Task7.kt$b: Int</ID>
+    <ID>UnusedPrivateMember:Task7.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task7.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task7.kt$text: String?</ID>
+    <ID>UnusedPrivateMember:Task7.kt$words: Set&lt;String&gt;</ID>
+    <ID>UnusedPrivateMember:Task8.kt$character: Char</ID>
+    <ID>UnusedPrivateMember:Task8.kt$gradeBook: Map&lt;String, List&lt;Double&gt;&gt;</ID>
+    <ID>UnusedPrivateMember:Task8.kt$listOfItems: List&lt;String?&gt;</ID>
+    <ID>UnusedPrivateMember:Task8.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task8.kt$number: Int</ID>
+    <ID>UnusedPrivateMember:Task8.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task9.kt$character: Char</ID>
+    <ID>UnusedPrivateMember:Task9.kt$gradeBook: Map&lt;String, List&lt;Double&gt;&gt;</ID>
+    <ID>UnusedPrivateMember:Task9.kt$inputTemp: String</ID>
+    <ID>UnusedPrivateMember:Task9.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task9.kt$personalNumber: String?</ID>
+    <ID>UnusedPrivateMember:Task9.kt$sentence: String</ID>
+  </CurrentIssues>
+</SmellBaseline>
