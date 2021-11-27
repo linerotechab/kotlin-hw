@@ -1,0 +1,24 @@
+name: Readme Generator
+on: workflow_dispatch
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: hlinero/readme-template-action@v1
+        with:
+          token: ${{ secrets.my_pat }}
+          template: TEMPLATE.md
+          output: README.md
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name "GitHub Action"
+            git config user.email "action@github.com"
+            git add .
+            git commit -m "Auto-update README.md"
+            git push
+          fi

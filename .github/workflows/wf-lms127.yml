@@ -1,0 +1,33 @@
+name: Module 103
+
+on:
+  push:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Task Testing - Module 103
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Checkout repo with tests
+        uses: actions/checkout@master
+        with:
+          repository: linerotechab/kotlin-hw-results
+          token: ${{ secrets.my_pat }}
+          path: ./kotlin-hw-results
+
+      - name: Move helper files
+        run: cp -r ./kotlin-hw-results/src/main/kotlin/helper ./src/main/kotlin
+
+      - name: Move test files
+        run: |
+          cp -r ./kotlin-hw-results/src/test/kotlin/lms_127 ./src/test/kotlin
+          gradle --version
+
+      - name: Test LMS 127
+        run: gradle test --tests "lms_127.*"
