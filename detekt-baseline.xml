@@ -129,6 +129,8 @@
     <ID>UnusedPrivateMember:Task5.kt$mapA: Map&lt;Int, Int&gt;</ID>
     <ID>UnusedPrivateMember:Task5.kt$myList: List&lt;Int&gt;</ID>
     <ID>UnusedPrivateMember:Task5.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task5.kt$valueForA: Int</ID>
+    <ID>UnusedPrivateMember:Task5.kt$valueForB: Int</ID>
     <ID>UnusedPrivateMember:Task5.kt$word: String?</ID>
     <ID>UnusedPrivateMember:Task6.kt$base1: Double</ID>
     <ID>UnusedPrivateMember:Task6.kt$base2: Double</ID>
