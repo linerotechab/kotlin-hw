@@ -1,8 +1,5 @@
 # Project Status
 
-![Opened Issues][opened_issues]
-![Closed Issues][closed_issues]
-![Last Commit][last_commit]
 ![Detekt][detekt_]
 
 ![LMS 126][lms_126]
@@ -16,9 +13,6 @@
 ![LMS 135][lms_135]
 
 <!-- Change REPO_NAME for the name of your repository -->
-[opened_issues]: https://badgen.net/github/open-issues/linero-tech/REPO_NAME
-[closed_issues]: https://badgen.net/github/closed-issues/linero-tech/REPO_NAME
-[last_commit]: https://badgen.net/github/last-commit/linero-tech/REPO_NAME/main
 [detekt_]: https://github.com/linero-tech/REPO_NAME/actions/workflows/wf-detekt.yml/badge.svg
 [lms_126]: https://github.com/linero-tech/REPO_NAME/actions/workflows/wf-lms126.yml/badge.svg
 [lms_127]: https://github.com/linero-tech/REPO_NAME/actions/workflows/wf-lms127.yml/badge.svg
