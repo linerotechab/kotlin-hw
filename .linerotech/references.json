@@ -1,0 +1,412 @@
+{
+	"chapters": [
+		{
+			"name": "lms_126",
+			"presentation": {
+				"title": "Module 102",
+				"subtitle": "LMS 126"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task5/"
+				},
+				{
+					"filename": "Task6.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task6/"
+				},
+				{
+					"filename": "Task7.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task7/"
+				},
+				{
+					"filename": "Task8.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task8/"
+				},
+				{
+					"filename": "Task9.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task9/"
+				},
+				{
+					"filename": "Task10.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task10/"
+				},
+				{
+					"filename": "Task11.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_126/homework/task11/"
+				}
+			]
+		},
+		{
+			"name": "lms_127",
+			"presentation": {
+				"title": "Module 103",
+				"subtitle": "LMS 127"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task5/"
+				},
+				{
+					"filename": "Task6.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task6/"
+				},
+				{
+					"filename": "Task7.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task7/"
+				},
+				{
+					"filename": "Task8.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task8/"
+				},
+				{
+					"filename": "Task9.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task9/"
+				},
+				{
+					"filename": "Task10.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_127/homework/task10/"
+				}
+			]
+		},
+		{
+			"name": "lms_129",
+			"presentation": {
+				"title": "Module 104",
+				"subtitle": "LMS 129"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task5/"
+				},
+				{
+					"filename": "Task6.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task6/"
+				},
+				{
+					"filename": "Task7.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task7/"
+				},
+				{
+					"filename": "Task8.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task8/"
+				},
+				{
+					"filename": "Task9.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task9/"
+				},
+				{
+					"filename": "Task10.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_129/homework/task10/"
+				}
+			]
+		},
+		{
+			"name": "lms_130",
+			"presentation": {
+				"title": "Module 201",
+				"subtitle": "LMS 130"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task5/"
+				},
+				{
+					"filename": "Task6.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task6/"
+				},
+				{
+					"filename": "Task7.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task7/"
+				},
+				{
+					"filename": "Task8.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task8/"
+				},
+				{
+					"filename": "Task9.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task9/"
+				},
+				{
+					"filename": "Task10.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task10/"
+				},
+				{
+					"filename": "Task11.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task11/"
+				},
+				{
+					"filename": "Task12.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task12/"
+				},
+				{
+					"filename": "Task13.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_130/homework/task13/"
+				}
+			]
+		},
+		{
+			"name": "lms_131",
+			"presentation": {
+				"title": "Module 202",
+				"subtitle": "LMS 131"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task5/"
+				},
+				{
+					"filename": "Task6.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task6/"
+				},
+				{
+					"filename": "Task7.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task7/"
+				},
+				{
+					"filename": "Task8.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task8/"
+				},
+				{
+					"filename": "Task9.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task9/"
+				},
+				{
+					"filename": "Task10.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task10/"
+				},
+				{
+					"filename": "Task11.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task11/"
+				},
+				{
+					"filename": "Task12.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task12/"
+				},
+				{
+					"filename": "Task13.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task13/"
+				},
+				{
+					"filename": "Task14.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task14/"
+				},
+				{
+					"filename": "Task15.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_131/homework/task15/"
+				}
+			]
+		},
+		{
+			"name": "lms_132",
+			"presentation": {
+				"title": "Module 203",
+				"subtitle": "LMS 132"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task5/"
+				},
+				{
+					"filename": "Task6.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task6/"
+				},
+				{
+					"filename": "Task7.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task7/"
+				},
+				{
+					"filename": "Task8.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task8/"
+				},
+				{
+					"filename": "Task9.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task9/"
+				},
+				{
+					"filename": "Task10.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_132/homework/task10/"
+				}
+			]
+		},
+		{
+			"name": "lms_133",
+			"presentation": {
+				"title": "Module 204",
+				"subtitle": "LMS 133"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task5/"
+				},
+				{
+					"filename": "Task6.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task6/"
+				},
+				{
+					"filename": "Task7.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task7/"
+				},
+				{
+					"filename": "Task8.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task8/"
+				},
+				{
+					"filename": "Task9.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task9/"
+				},
+				{
+					"filename": "Task10.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_133/homework/task10/"
+				}
+			]
+		},
+		{
+			"name": "lms_135",
+			"presentation": {
+				"title": "Module 205",
+				"subtitle": "LMS 135"
+			},
+			"assignments": [
+				{
+					"filename": "Task1.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_135/homework/task1/"
+				},
+				{
+					"filename": "Task2.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_135/homework/task2/"
+				},
+				{
+					"filename": "Task3.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_135/homework/task3/"
+				},
+				{
+					"filename": "Task4.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_135/homework/task4/"
+				},
+				{
+					"filename": "Task5.kt",
+					"descriptionUrl": "https://homework-instructions.netlify.app/lms_135/homework/task5/"
+				}
+			]
+		}
+	]
+}
