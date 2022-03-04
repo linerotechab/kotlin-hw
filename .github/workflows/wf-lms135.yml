@@ -22,7 +22,7 @@ jobs:
           path: ./kotlin-hw-results
 
       - name: Move helper files
-        run: cp -r ./kotlin-hw-results/src/main/kotlin/helper ./src/main/kotlin
+        run: cp -r ./kotlin-hw-results/src/test/kotlin/helper ./src/test/kotlin
 
       - name: Move test files
         run: |
