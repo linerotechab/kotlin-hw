@@ -1,13 +1,13 @@
 package lms_130
 
-fun question1Task11(listOfAttendees: List<String>): Int {
+fun task11_1(guests: List<String>): Int {
 
-    return TODO("Replace this 'TODO' with the variable 'numberOfAttendees'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
 
-fun question2Task11(listOfAttendees: List<String>, condition: String): List<String> {
+fun task11_2(guests: List<String>, condition: String): List<String> {
 
-    return TODO("Replace this 'TODO' with the variable 'peopleWithCondition'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
 
 fun main() {
@@ -23,7 +23,6 @@ fun main() {
         "Maëline-K",
     )
 
-    // NOTE: Uncomment the code below when you are ready to test your answers
-    println("The event has a total of ${question1Task11(listOfAttendees)} attendees.")
-    println("The attendees with condition $conditionOfInterest are ${question2Task11(listOfAttendees, conditionOfInterest)}")
+    println("The event has a total of ${task11_1(listOfAttendees)} attendees.")
+    println("The attendees with condition $conditionOfInterest are ${task11_2(listOfAttendees, conditionOfInterest)}")
 }

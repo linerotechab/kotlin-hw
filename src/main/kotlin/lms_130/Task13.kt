@@ -1,18 +1,18 @@
 package lms_130
 
-fun question1Task13(listOfCustomers: List<String>): List<String> {
+fun task13_1(customers: List<String>): List<String> {
 
-    return TODO("Replace this 'TODO' with the variable 'uniqueCustomers'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
 
-fun question2Task13(listOfCustomers: List<String>): List<String> {
+fun task13_2(customers: List<String>): List<String> {
 
-    return TODO("Replace this 'TODO' with the variable 'frequentBuyers'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
 
-fun question3Task13(listOfCustomers: List<String>): List<String> {
+fun task13_3(customers: List<String>): List<String> {
 
-    return TODO("Replace this 'TODO' with the variable 'listOfCompanies'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
 
 fun main() {
@@ -30,7 +30,7 @@ fun main() {
         "kovell1z@washingtonpost.com"
     )
 
-    println("The customers who purchased from your product: ${question1Task13(listOfCustomer)}")
-    println("The customers that purchased multiple times include: ${question2Task13(listOfCustomer)}")
-    println("The companies that purchased from you include: ${question3Task13(listOfCustomer)}")
+    println("The customers who purchased from your product: ${task13_1(listOfCustomer)}")
+    println("The customers that purchased multiple times include: ${task13_2(listOfCustomer)}")
+    println("The companies that purchased from you include: ${task13_3(listOfCustomer)}")
 }
