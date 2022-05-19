@@ -1,6 +1,6 @@
 package lms_132
 
-fun stringLengthCalculator(text: String?): Int {
+fun task1(sentence: String?): Int {
 
-    return TODO("Replace this 'TODO' with the variable 'stringLength'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

@@ -1,6 +1,6 @@
 package lms_132
 
-fun stringIdentifier(listOfItems: List<String?>): List<String> {
+fun task8(items: List<String?>): List<String> {
 
-    return TODO("Replace this 'TODO' with the variable 'bigThreeList'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
