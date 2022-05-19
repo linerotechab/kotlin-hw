@@ -1,4 +1,9 @@
 {
+	"sourcePath": "src/main/kotlin",
+	"assignmentWindow": {
+		"autoOpen": true,
+		"isAvailable": true
+	},
 	"chapters": [
 		{
 			"name": "lms_126",
