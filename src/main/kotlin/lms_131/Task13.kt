@@ -1,6 +1,6 @@
 package lms_131
 
-fun wordCounter(text: String): String {
+fun task13(sentence: String): String {
 
-    return TODO("Replace this 'TODO' with the variable 'mostUsedWord'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

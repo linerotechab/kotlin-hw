@@ -1,6 +1,6 @@
 package lms_131
 
-fun mapBuilder(words: Set<String>): Map<Int, String> {
+fun task7(words: List<String>): Map<Int, String> {
 
-    return TODO("Replace this 'TODO' with the variable 'stringMap'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

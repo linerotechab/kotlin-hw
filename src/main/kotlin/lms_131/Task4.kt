@@ -1,6 +1,6 @@
 package lms_131
 
-fun commonValueFinder(mapA: Map<Int, Int>, commonValue: Int): List<Int> {
+fun task4(mapa: Map<Int, Int>, value: Int): List<Int> {
 
-    return TODO("Replace this 'TODO' with the variable 'keysWithSameValue'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
