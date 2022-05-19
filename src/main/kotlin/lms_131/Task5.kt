@@ -1,6 +1,6 @@
 package lms_131
 
-fun constantFinder(mapA: Map<Int, Int>, constant: Int): List<Int> {
+fun task5(mapa: Map<Int, Int>, constant: Int): List<Int> {
 
-    return TODO("Replace this 'TODO' with the variable 'items'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

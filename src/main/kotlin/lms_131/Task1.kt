@@ -1,6 +1,6 @@
 package lms_131
 
-fun mapCreator(): Map<Int, Int> {
+fun task1(): Map<Int, Int> {
 
-    return TODO("Replace this 'TODO' with the variable 'data'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
