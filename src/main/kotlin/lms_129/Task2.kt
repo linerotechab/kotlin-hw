@@ -1,6 +1,6 @@
 package lms_129
 
-fun primeChecker(number: Int): Boolean {
+fun task2(number: Int): Boolean {
 
-    return TODO("Replace this 'TODO' with the variable 'isPrime'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

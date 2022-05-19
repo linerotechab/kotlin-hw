@@ -1,6 +1,6 @@
 package lms_129
 
-fun factorialCalculator(number: Int): Int {
+fun task3(number: Int): Int {
 
-    return TODO("Replace this 'TODO' with the variable 'factorialResult'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
