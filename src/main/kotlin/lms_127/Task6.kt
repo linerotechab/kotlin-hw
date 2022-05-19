@@ -1,6 +1,6 @@
 package lms_127
 
-fun areaOfTrapezoid(base1: Double, base2: Double, height: Double): Double {
+fun task6(base1: Double, base2: Double, height: Double): Double {
 
-    return TODO("Replace this 'TODO' with the variable 'area'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

@@ -1,6 +1,6 @@
 package lms_127
 
-fun perimeterOfCircle(radius: Double): Double {
+fun task3(radius: Double): Double {
 
-    return TODO("Replace this 'TODO' with the variable 'perimeter'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
