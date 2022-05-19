@@ -1,6 +1,6 @@
 package lms_130
 
-fun duplicateIdentifier(list: List<Int>): List<Int> {
+fun task3(items: List<Int>): List<Int> {
 
-    return TODO("Replace this 'TODO' with the variable 'duplicateItems'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

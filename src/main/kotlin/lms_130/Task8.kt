@@ -1,6 +1,6 @@
 package lms_130
 
-fun maxThreeIdentifier(myList: List<Int>): List<Int> {
+fun task8(items: List<Int>): List<Int> {
 
-    return TODO("Replace this 'TODO' with the variable 'highestThreeList'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
