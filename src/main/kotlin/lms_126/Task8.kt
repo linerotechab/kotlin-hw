@@ -1,5 +1,6 @@
 package lms_126
 
-fun pseudocodeFooBar() {
-    TODO("Erase this statement when writing your solution")
+fun task8() {
+
+    TODO("Erase this line and write your solution")
 }

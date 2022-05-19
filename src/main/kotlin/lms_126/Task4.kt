@@ -1,5 +1,6 @@
 package lms_126
 
-fun pseudocodeGreaterNumber() {
-    TODO("Erase this statement when writing your solution")
+fun task4() {
+
+    TODO("Erase this line and write your solution")
 }

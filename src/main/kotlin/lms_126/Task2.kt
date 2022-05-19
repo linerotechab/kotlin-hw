@@ -1,5 +1,6 @@
 package lms_126
 
-fun pseudocodeRectangleArea() {
-    TODO("Erase this statement when writing your solution")
+fun task2() {
+
+    TODO("Erase this line and write your solution")
 }
