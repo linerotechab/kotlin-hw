@@ -2,8 +2,18 @@
 <SmellBaseline>
   <ManuallySuppressedIssues></ManuallySuppressedIssues>
   <CurrentIssues>
-    <ID>MaxLineLength:Task11.kt$println("The attendees with condition $conditionOfInterest are ${question2Task11(listOfAttendees, conditionOfInterest)}")</ID>
-    <ID>MaximumLineLength:lms_130.Task11.kt:28</ID>
+    <ID>FunctionNaming:Task10.kt$fun task10_1(assessments: String): Int</ID>
+    <ID>FunctionNaming:Task10.kt$fun task10_2(assessments: String): Char</ID>
+    <ID>FunctionNaming:Task10.kt$fun task10_3(assessments: String): Char</ID>
+    <ID>FunctionNaming:Task10.kt$fun task10_4(assessments: String): String</ID>
+    <ID>FunctionNaming:Task11.kt$fun task11_1(guests: List&lt;String&gt;): Int</ID>
+    <ID>FunctionNaming:Task11.kt$fun task11_2(guests: List&lt;String&gt;, condition: String): List&lt;String&gt;</ID>
+    <ID>FunctionNaming:Task12.kt$fun task12_1(sells: List&lt;Int&gt;): String</ID>
+    <ID>FunctionNaming:Task12.kt$fun task12_2(sells: List&lt;Int&gt;): String</ID>
+    <ID>FunctionNaming:Task12.kt$fun task12_3(sells: List&lt;Int&gt;): Int</ID>
+    <ID>FunctionNaming:Task13.kt$fun task13_1(customers: List&lt;String&gt;): List&lt;String&gt;</ID>
+    <ID>FunctionNaming:Task13.kt$fun task13_2(customers: List&lt;String&gt;): List&lt;String&gt;</ID>
+    <ID>FunctionNaming:Task13.kt$fun task13_3(customers: List&lt;String&gt;): List&lt;String&gt;</ID>
     <ID>PackageNaming:Task1.kt$package lms_126</ID>
     <ID>PackageNaming:Task1.kt$package lms_127</ID>
     <ID>PackageNaming:Task1.kt$package lms_129</ID>
@@ -90,73 +100,71 @@
     <ID>PackageNaming:Task9.kt$package lms_133</ID>
     <ID>UnusedPrivateMember:Task1.kt$a: Int</ID>
     <ID>UnusedPrivateMember:Task1.kt$b: Int</ID>
-    <ID>UnusedPrivateMember:Task1.kt$list: List&lt;Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task1.kt$text: String?</ID>
-    <ID>UnusedPrivateMember:Task10.kt$listOfItems: List&lt;String?&gt;</ID>
-    <ID>UnusedPrivateMember:Task10.kt$myList: List&lt;Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task10.kt$myMap: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task1.kt$items: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task1.kt$sentence: String?</ID>
+    <ID>UnusedPrivateMember:Task10.kt$assessments: String</ID>
+    <ID>UnusedPrivateMember:Task10.kt$items: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task10.kt$items: List&lt;String?&gt;</ID>
+    <ID>UnusedPrivateMember:Task10.kt$mapa: Map&lt;Int, String&gt;</ID>
     <ID>UnusedPrivateMember:Task10.kt$password: String</ID>
-    <ID>UnusedPrivateMember:Task10.kt$qualityAssessments: String</ID>
     <ID>UnusedPrivateMember:Task11.kt$condition: String</ID>
-    <ID>UnusedPrivateMember:Task11.kt$keyOfInterest: Int</ID>
-    <ID>UnusedPrivateMember:Task11.kt$listOfAttendees: List&lt;String&gt;</ID>
-    <ID>UnusedPrivateMember:Task11.kt$myMap: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task11.kt$guests: List&lt;String&gt;</ID>
+    <ID>UnusedPrivateMember:Task11.kt$mapa: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task11.kt$prospect: Int</ID>
     <ID>UnusedPrivateMember:Task12.kt$a: List&lt;Int&gt;</ID>
     <ID>UnusedPrivateMember:Task12.kt$b: List&lt;String&gt;</ID>
-    <ID>UnusedPrivateMember:Task12.kt$sellsOfTheWeek: List&lt;Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task13.kt$listOfCustomers: List&lt;String&gt;</ID>
-    <ID>UnusedPrivateMember:Task13.kt$text: String</ID>
-    <ID>UnusedPrivateMember:Task14.kt$text: String</ID>
-    <ID>UnusedPrivateMember:Task15.kt$text: String</ID>
+    <ID>UnusedPrivateMember:Task12.kt$sells: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task13.kt$customers: List&lt;String&gt;</ID>
+    <ID>UnusedPrivateMember:Task13.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task14.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task15.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task2.kt$items: List&lt;Int&gt;</ID>
     <ID>UnusedPrivateMember:Task2.kt$items: List&lt;Int?&gt;?</ID>
-    <ID>UnusedPrivateMember:Task2.kt$list: List&lt;Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task2.kt$map: Map&lt;Int, Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task2.kt$mapa: Map&lt;Int, Int&gt;</ID>
     <ID>UnusedPrivateMember:Task2.kt$number: Int</ID>
-    <ID>UnusedPrivateMember:Task3.kt$list: List&lt;Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task3.kt$mapA: Map&lt;Int, String&gt;</ID>
-    <ID>UnusedPrivateMember:Task3.kt$mapB: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task3.kt$a: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task3.kt$b: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task3.kt$items: List&lt;Int&gt;</ID>
     <ID>UnusedPrivateMember:Task3.kt$number: Int</ID>
     <ID>UnusedPrivateMember:Task3.kt$radius: Double</ID>
     <ID>UnusedPrivateMember:Task3.kt$sentence: String?</ID>
     <ID>UnusedPrivateMember:Task4.kt$base: Double</ID>
-    <ID>UnusedPrivateMember:Task4.kt$commonValue: Int</ID>
     <ID>UnusedPrivateMember:Task4.kt$factor: Int</ID>
     <ID>UnusedPrivateMember:Task4.kt$height: Double</ID>
-    <ID>UnusedPrivateMember:Task4.kt$mapA: Map&lt;Int, Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task4.kt$myList: List&lt;Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task4.kt$text: String?</ID>
+    <ID>UnusedPrivateMember:Task4.kt$items: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task4.kt$mapa: Map&lt;Int, Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task4.kt$sentence: String?</ID>
+    <ID>UnusedPrivateMember:Task4.kt$value: Int</ID>
     <ID>UnusedPrivateMember:Task5.kt$constant: Int</ID>
-    <ID>UnusedPrivateMember:Task5.kt$mapA: Map&lt;Int, Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task5.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task5.kt$items: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task5.kt$mapa: Map&lt;Int, Int&gt;</ID>
     <ID>UnusedPrivateMember:Task5.kt$sentence: String</ID>
-    <ID>UnusedPrivateMember:Task5.kt$valueForA: Int</ID>
-    <ID>UnusedPrivateMember:Task5.kt$valueForB: Int</ID>
     <ID>UnusedPrivateMember:Task5.kt$word: String?</ID>
     <ID>UnusedPrivateMember:Task6.kt$base1: Double</ID>
     <ID>UnusedPrivateMember:Task6.kt$base2: Double</ID>
-    <ID>UnusedPrivateMember:Task6.kt$filterParameter: String</ID>
     <ID>UnusedPrivateMember:Task6.kt$height: Double</ID>
     <ID>UnusedPrivateMember:Task6.kt$items: List&lt;Int?&gt;</ID>
-    <ID>UnusedPrivateMember:Task6.kt$mapA: Map&lt;Int, String&gt;</ID>
-    <ID>UnusedPrivateMember:Task6.kt$numberToReverse: Int</ID>
+    <ID>UnusedPrivateMember:Task6.kt$mapa: Map&lt;Int, String&gt;</ID>
+    <ID>UnusedPrivateMember:Task6.kt$number: Int</ID>
+    <ID>UnusedPrivateMember:Task6.kt$parameter: String</ID>
     <ID>UnusedPrivateMember:Task6.kt$sentence: String</ID>
     <ID>UnusedPrivateMember:Task7.kt$a: Int</ID>
     <ID>UnusedPrivateMember:Task7.kt$b: Int</ID>
-    <ID>UnusedPrivateMember:Task7.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task7.kt$items: List&lt;Int&gt;</ID>
     <ID>UnusedPrivateMember:Task7.kt$sentence: String</ID>
-    <ID>UnusedPrivateMember:Task7.kt$text: String?</ID>
-    <ID>UnusedPrivateMember:Task7.kt$words: Set&lt;String&gt;</ID>
+    <ID>UnusedPrivateMember:Task7.kt$sentence: String?</ID>
+    <ID>UnusedPrivateMember:Task7.kt$words: List&lt;String&gt;</ID>
     <ID>UnusedPrivateMember:Task8.kt$character: Char</ID>
-    <ID>UnusedPrivateMember:Task8.kt$gradeBook: Map&lt;String, List&lt;Double&gt;&gt;</ID>
-    <ID>UnusedPrivateMember:Task8.kt$listOfItems: List&lt;String?&gt;</ID>
-    <ID>UnusedPrivateMember:Task8.kt$myList: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task8.kt$grades: Map&lt;String, List&lt;Double&gt;&gt;</ID>
+    <ID>UnusedPrivateMember:Task8.kt$items: List&lt;Int&gt;</ID>
+    <ID>UnusedPrivateMember:Task8.kt$items: List&lt;String?&gt;</ID>
     <ID>UnusedPrivateMember:Task8.kt$number: Int</ID>
     <ID>UnusedPrivateMember:Task8.kt$sentence: String</ID>
     <ID>UnusedPrivateMember:Task9.kt$character: Char</ID>
-    <ID>UnusedPrivateMember:Task9.kt$gradeBook: Map&lt;String, List&lt;Double&gt;&gt;</ID>
-    <ID>UnusedPrivateMember:Task9.kt$inputTemp: String</ID>
-    <ID>UnusedPrivateMember:Task9.kt$myList: List&lt;Int&gt;</ID>
-    <ID>UnusedPrivateMember:Task9.kt$personalNumber: String?</ID>
+    <ID>UnusedPrivateMember:Task9.kt$grades: Map&lt;String, List&lt;Double&gt;&gt;</ID>
+    <ID>UnusedPrivateMember:Task9.kt$identification: String?</ID>
+    <ID>UnusedPrivateMember:Task9.kt$items: List&lt;Int&gt;</ID>
     <ID>UnusedPrivateMember:Task9.kt$sentence: String</ID>
+    <ID>UnusedPrivateMember:Task9.kt$temperature: String</ID>
   </CurrentIssues>
 </SmellBaseline>
