@@ -1,7 +1,6 @@
 package lms_127
 
-fun swapValues(valueForA: Int, valueForB: Int): Pair<Int, Int> {
-
+fun task5(valueForA: Int, valueForB: Int): Pair<Int, Int> {
     // Do not change or delete these variables
     var a = valueForA
     var b = valueForB

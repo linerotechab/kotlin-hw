@@ -1,5 +1,6 @@
 package lms_127
 
-fun greetings() {
-    TODO("Erase this statement when writing your solution")
+fun task1() {
+
+    TODO("Erase this line and write your solution")
 }
