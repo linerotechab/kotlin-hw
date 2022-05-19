@@ -1,6 +1,6 @@
 package lms_132
 
-fun isIsogram(word: String?): Boolean {
+fun task5(word: String?): Boolean {
 
-    return TODO("Replace this 'TODO' with the variable 'isogramResult'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }

@@ -1,6 +1,6 @@
 package lms_132
 
-fun vowelReplacer(sentence: String?): String {
+fun task3(sentence: String?): String {
 
-    return TODO("Replace this 'TODO' with the variable 'censoredText'. Do not erase the 'return' keyword")
+    return TODO("Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword")
 }
