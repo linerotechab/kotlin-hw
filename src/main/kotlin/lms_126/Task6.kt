@@ -1,5 +1,6 @@
 package lms_126
 
-fun pseudocodeMultipleOfFive() {
-    TODO("Erase this statement when writing your solution")
+fun task6() {
+
+    TODO("Erase this line and write your solution")
 }
