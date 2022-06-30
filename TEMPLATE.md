@@ -1,7 +1,5 @@
 # Project Status
 
-![Code Style][linter_]
-
 ![LMS 126][lms_126]
 ![LMS 127][lms_127]
 ![LMS 129][lms_129]
@@ -13,7 +11,6 @@
 ![LMS 135][lms_135]
 
 <!-- Change REPO_NAME for the name of your repository -->
-[linter_]: https://github.com/{{ CURRENT_REPO_FULL_NAME }}/actions/workflows/wf-linter.yml/badge.svg
 [lms_126]: https://github.com/{{ CURRENT_REPO_FULL_NAME }}/actions/workflows/wf-lms126.yml/badge.svg
 [lms_127]: https://github.com/{{ CURRENT_REPO_FULL_NAME }}/actions/workflows/wf-lms127.yml/badge.svg
 [lms_129]: https://github.com/{{ CURRENT_REPO_FULL_NAME }}/actions/workflows/wf-lms129.yml/badge.svg
