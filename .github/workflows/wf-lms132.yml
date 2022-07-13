@@ -1,4 +1,4 @@
-name: Module 203
+name: Module 106
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: Task Testing - Module 203
+    name: Task Testing
     runs-on: ubuntu-latest
 
     steps:
